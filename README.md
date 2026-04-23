@@ -1,5 +1,3 @@
-# 🇺🇸 English Version
-
 # INTRODUCTION
 
 The purpose of this repository is to teach how to code getting as close as possible to a "vibe coder" without breaking your application. The key idea here is to find a balance between "vibe coding flow" and solid, structured coding. To do that, you will need:
