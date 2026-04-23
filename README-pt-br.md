@@ -8,6 +8,15 @@ O propósito desse repositório é ensinar como codar chegando o mais próximo p
 2. Contextos pequenos
 3. Escrever seu plano em "pseudocódigo" da maneira mais simples possível
 
+Só mais duas dicas importantíssimas:
+
+Primeiro, você não precisa saber a sintaxe. Só precisa de uma ideia geral do que está acontecendo.
+
+Segundamente: aprenda o básico de lógica de programação. Nem que seja um simples "if/else" e algumas estruturas de dados como objetos e vetores (arrays). Essas coisas dá para aprender em alguns dias ou até mesmo horas. É simples e vai ajudar demais.
+
+Mesmo vibe codando, devemos ter paciência. A gente dá conta disso. Bora, guys!
+
+
 ## PROMPT BEM FEITO
 
 Um prompt bem feito é aquele que diz exatamente a entrada, saída e demonstrar informações relevantes para a IA. Exemplo:
