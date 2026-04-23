@@ -1,10 +1,17 @@
 # INTRODUCTION
-
 The purpose of this repository is to teach how to code getting as close as possible to a "vibe coder" without breaking your application. The key idea here is to find a balance between "vibe coding flow" and solid, structured coding. To do that, you will need:
 
 1 - Well-crafted prompts  
 2 - Small contexts  
 3 - Writing your plan in "pseudocode" in the simplest way possible  
+
+I want to make sure two things: 
+
+First and more imporante: guys, you do not need to know the sintax. You need a general IDEA of what is happening. 
+
+And finally: you need to need some basics introduction to programming logic. Even it's just a "if/else", "loops" and data structure like "objects" and "arrays". These things you have a good idea in few days ou even hours. Do not miss it!
+
+Even when vibe coding, we need patience. Let's do it!
 
 
 ---
